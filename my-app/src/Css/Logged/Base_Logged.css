@@ -1,0 +1,277 @@
+html {
+    width: 99%;
+    height: 380%;
+    background: radial-gradient(circle, rgba(168,225,251,1) 0%, rgba(255,255,255,1) 0%, rgba(184,249,246,1) 100%);
+
+
+}
+
+.title-logged {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(14, 14, 14);
+    margin-top: 10%;
+    opacity: 0.9;
+
+}
+
+.title-logged > p {
+    margin: 0;
+    margin-left: 10%;
+    font-size: 240%;
+    color: rgb(26, 24, 24);
+}
+
+
+.Banner-Logged {
+    display: grid;
+    grid-template-columns: 2.5fr 1fr 0.5fr ;
+}
+
+.Login-logged {
+  margin-left: -15%;
+  margin-top: 10%;
+  align-self: center;
+}
+
+.Baby {
+
+max-width: 900px;
+width: 80%;
+align-items: center;
+}
+
+.Img {
+    transform: rotate(-90deg);
+
+}
+
+.FIcon-logged {
+    width: 30%;
+    border-radius: 10%;
+    transform: rotate(-20deg);
+    margin-right: -5%;
+    border: 3px solid black;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;}
+
+
+.Icon-logged {
+    width: 30%;
+    border-radius: 5%;
+    transform: rotate(-5deg);
+    border: 3px solid black;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;}
+
+    .SIcon-logged {
+    width: 30%;
+    border-radius: 10%;
+    transform: rotate(20deg);
+    margin-left: -5%;
+    border: 3px solid black;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;}
+
+.Images-logged {
+
+    margin-top: 0%;
+    margin-left: 23%;
+    width: 60%;
+    margin-top: 20%;
+    
+}
+
+.Danger-logged {
+    position: absolute;
+    margin-left: 10%;
+    margin-top: -23%;
+    width: 45%;
+    
+  
+}
+
+.Content-logged {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 20%;
+    margin-left: 7%;
+
+}
+
+.Secret-logged {
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    margin-left: 6%;
+}
+
+.Secret-Images{
+    width: 11%;
+    border-radius: 10%;
+}
+
+.Question {
+width: 50%;
+margin-left: 16%;
+}
+
+.SecretText-logged {
+    max-width: 80%;
+    display: grid;
+    grid-template-rows: 40% 50% 10%;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(14, 14, 14);
+    
+}
+
+.SecretTitle-logged {
+font-size: 230%;
+color: rgb(14, 14, 14);
+font-family: 'Gloria Hallelujah', cursive;
+
+
+
+}
+
+.Text-Buttons {
+    margin-top: 10%;
+    display: grid;
+    grid-template-columns: 40% 50%;
+    gap: 10px;
+    
+}
+
+.Shadow-logged {
+    margin-top: 5%;
+    color: rgb(14, 14, 14);
+    font-size: 130%;
+}
+
+.Team-logged {
+margin-top: 14%;
+display: grid;
+grid-template-rows: 50% 50%;
+justify-items: center;
+}
+
+
+
+.Team-Img-logged {
+    width: 80%;
+    border-radius: 10%;
+    margin-top: 5%;
+    border: solid 2px black;
+   
+  
+    
+
+
+
+}
+
+.Team-All-Img-logged > div {
+    display: grid;
+    justify-items: center;
+    border-radius: 10%;
+    opacity: 0.75;
+}
+
+.Team-All-Img-logged {
+    display: grid;
+    grid-template-columns: repeat(3, 23%);
+    font-family: 'Gloria Hallelujah', cursive;
+    gap: 9px;
+    opacity: 1;
+    justify-content: center;
+   
+    
+
+
+
+
+
+}
+
+.Team-CImg-logged {
+    width: 85%;
+    margin-top: 0%;
+    border-radius: 11%;
+    margin-top: 5%;
+    border: solid 2px black;
+
+
+}
+
+.Team-Texts-logged {
+    color: rgb(14, 14, 14);
+    font-size: 235%;
+
+font-family: 'Gloria Hallelujah', cursive;
+margin-top: 10%;
+
+}
+
+
+
+
+.SImg-logged {
+    width: 70%;
+}
+
+.Grid {
+    display: grid;
+    grid-template-columns: 5% 95%;
+}
+
+.Faq-title {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(14, 14, 14);
+    margin-top: 30%;
+    margin-left: 3%;
+    display: grid;
+    justify-content: center;
+}
+
+
+.Cards{
+    display: grid;
+    grid-template-rows: repeat(1, 1fr);
+    margin-top: 15%;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(14, 14, 14);
+    justify-content: center;
+
+    align-items: center;
+    gap: 20px;
+    margin-left: -2%;
+    
+
+}
+
+
+.Card-Title {
+    margin-left: 4%;
+    margin-top: 7%;
+
+}
+
+
+.Card-Text {
+    margin-left: 4%;
+}
+
+.Card {
+    background: rgb(208, 249, 241);
+    width: 70%;
+padding: 2rem 3rem;    
+
+    border-radius: 2%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+
+
+}
+
+
+.Team-All-Img-logged >div:hover {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+            opacity: 1;
+    width: 100%;
+    transition-duration: 2s;
+ 
+}

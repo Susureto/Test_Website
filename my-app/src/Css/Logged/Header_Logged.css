@@ -1,0 +1,41 @@
+.Headers-logged {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin-left: 5%;
+    align-items: center;
+    opacity: 1;
+    margin-top: 1.4%;
+
+  }
+  
+ .Icons-logged {
+     display: grid;
+     grid-template-columns: 50% 50%; 
+     align-items: center;
+    margin-left: 70%;
+     max-width: 150px;
+     opacity: 1;
+ }
+
+ .Options-logged {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+gap: 10px;
+text-decoration: none;
+
+ }
+
+ h3 {
+ opacity: 1;
+}
+
+
+ @media all and (max-width: 800px) {
+     .Options {
+         gap: 50px;
+         margin-left: 10%;
+         
+     }
+ }
+
+ 

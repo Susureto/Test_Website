@@ -1,0 +1,194 @@
+
+
+
+.title {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(35, 33, 33);
+    margin-top: 10%;
+    opacity: 0.8;
+
+}
+
+.title > p {
+    margin: 0;
+    margin-left: 10%;
+    font-size: 240%;
+    color: rgb(35, 33, 33);
+}
+
+
+.Banner-logged {
+    display: grid;
+    grid-template-columns: 2.5fr 1fr 0.5fr ;
+}
+
+.Login {
+  margin-left: -15%;
+  margin-top: 10%;
+  align-self: center;
+}
+
+.Baby {
+
+max-width: 900px;
+width: 80%;
+align-items: center;
+}
+
+.Img {
+    transform: rotate(-90deg);
+
+}
+
+.FIcon {
+    width: 30%;
+    border-radius: 10%;
+    transform: rotate(-20deg);
+    margin-right: -5%;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+
+.Icon {
+    width: 30%;
+    border-radius: 5%;
+    transform: rotate(-5deg);
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+    .SIcon {
+    width: 30%;
+    border-radius: 10%;
+    transform: rotate(20deg);
+    margin-left: -5%;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+.Images {
+
+    margin-top: 0%;
+    margin-left: 23%;
+    width: 60%;
+    margin-top: 20%;
+    
+}
+
+.Danger {
+    position: absolute;
+    margin-left: 10%;
+    margin-top: -23%;
+    width: 45%;
+    
+  
+}
+
+.Content {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 20%;
+
+}
+
+.Secret {
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    margin-left: 6%;
+}
+
+.Secret-Images{
+    width: 11%;
+    border-radius: 10%;
+}
+
+.Question {
+width: 50%;
+margin-left: 16%;
+}
+
+.SecretText {
+    max-width: 80%;
+    display: grid;
+    grid-template-rows: 40% 60%;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: white;
+    
+}
+
+.SecretTitle {
+font-size: 230%;
+color: rgb(35, 33, 33);
+font-family: 'Gloria Hallelujah', cursive;
+
+
+
+}
+
+.Shadow {
+    color: transparent;
+    margin-top: 5%;
+text-shadow: 0 0 5px rgba(38, 36, 36, 0.5);
+}
+
+.Team {
+margin-top: 14%;
+display: grid;
+grid-template-rows: 50% 50%;
+justify-items: center;
+
+}
+
+.Team-C {
+    display: grid;
+    grid-template-rows: 50% 50%;
+   
+    
+}
+
+.Team-Img {
+    width: 90%;
+    border-radius: 10%;
+    margin-left: 5%;
+
+
+}
+
+.Team-All-Img{
+    display: grid;
+    grid-template-columns: repeat(3, 20%);
+    gap: 0px;
+    opacity: 0.3;
+    justify-content: center;
+
+
+
+}
+
+.Team-CImg {
+    width: 100%;
+    margin-left: 0%;
+    margin-top: -5%;
+    border-radius: 11%;
+}
+
+.Team-Texts{
+    color: rgb(35, 33, 33);
+    font-size: 100%;
+    margin-top: 7%;
+font-family: 'Gloria Hallelujah', cursive;
+display: grid;
+grid-template-columns: repeat(3, 23%);
+justify-items: center;
+margin-left: 20%;
+gap: 20px;
+
+}
+
+.Denied {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: rgb(132, 49, 49);
+    font-size: 520%;
+    margin-top: -18%;
+    position: relative;
+}
+
+

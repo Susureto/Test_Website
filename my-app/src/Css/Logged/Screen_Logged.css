@@ -1,0 +1,153 @@
+@media all and (max-width: 1000px) {
+    .Banner-logged {
+        display: grid;
+grid-template-columns: 100%;
+grid-template-rows: 80% 20%;
+justify-items: center;
+
+
+    }
+
+    .Login-logged {
+        width: 40%;
+        margin-top: 10%;
+        margin-left: 0;
+
+
+    }
+    .title-logged > p {
+        font-size: 180%;
+        margin-left: -5%;
+ 
+  
+        
+      }
+  
+    .title-logged { 
+        width: 100%;
+
+    }
+
+
+    .Content-logged {
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 40% 60%;
+        margin-top: 30%;
+justify-items: center;
+    }
+
+    .Secret-logged {
+        width: 70%;
+    }
+
+    .SecretText-logged{
+        margin-top: 15%;
+        margin-left: 7%;
+    }
+
+    .Shadow-logged {
+        margin-top: 10%;
+    }
+
+    .Team-C-logged {
+        display: grid;
+        grid-template-rows: 70% 30%;
+       
+        
+    }
+
+.Team-logged {
+    display: grid;
+grid-template-rows: 30% 70%;
+}
+
+
+    .Team-Texts-logged {
+        font-size: 120%;
+        margin-top: 10%;
+        margin-left: 10%;
+
+    }
+    .Team-All-Img-logged  {
+        margin-top: 8%;
+        margin-left: 0%;
+        width: 100%;
+    }
+
+    .Denied-logged  {
+        margin-top: -30%;
+        font-size: 280%;
+    }
+    .Foot{
+font-size: 60%;
+    }
+
+}
+
+@media all and (max-width: 600px) {
+
+.Images-logged{
+    width: 90%;
+    margin-left: 10%;
+
+}
+
+
+    .Team-logged {
+        margin-top: 14%;
+        display: grid;
+        grid-template-rows: 20% 80%;
+        justify-items: center;
+        }
+        
+
+    .Team-All-Img-logged {
+display: grid;
+grid-template-columns: 100%;
+
+grid-template-rows: repeat(3,1fr);
+        font-family: 'Gloria Hallelujah', cursive;
+        gap: 80px;
+        opacity: 0.8;
+align-content: center;
+margin-top: -30%;
+       
+    }
+    
+.Team-Img-logged {
+    width: 50%;
+}
+
+
+.Team-CImg-logged {
+    width: 55%;
+}
+
+.Faq {
+    margin-top: 130%;
+}
+
+.Team-Texts-logged {
+    font-size: 280%;
+    margin-left: 0%;
+}
+
+.Team-T {
+    font-size: 140%;
+}
+
+.Team-logged {
+    margin-top: 40%;
+}
+
+.Shadow-logged{
+    margin-bottom: 20%;
+}
+
+
+.Text-Buttons {
+    margin-top: 30%;
+}
+
+}
