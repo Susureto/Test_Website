@@ -8,7 +8,6 @@ import './Css/Logged/Base_Logged.css'
 import './Css/Logged/Header_Logged.css'
 import './Css/Logged/Screen_Logged.css'
 import reportWebVitals from './reportWebVitals';
-import Base from './components/Base';
 import BaseL from './compenentsL/Base_Logged'
 import { MoralisProvider } from "react-moralis";
 
