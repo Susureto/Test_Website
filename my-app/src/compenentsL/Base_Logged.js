@@ -1,18 +1,12 @@
 import * as React from 'react';
-import {message} from 'antd'
-import Alerty from './Buttons/Alert';
-import ReactDOM from 'react-dom';
-import Error from './Buttons/Error';
 import {Button} from '@material-ui/core';
 import {motion} from 'framer-motion';
-import { red } from '@material-ui/core/colors';
 import Danger from '../Svg/Danger'
 import Question from "../Svg/Question"
 import SQuestion from "../Svg/SQuestion"
 import TwitterICon from '../Svg/TwitterIcon.js';
 import HeaderL from './Header_Logged'
 import Header from '../components/Header';
-import Ethereum from '../Svg/Ethereum';
 import { useState } from 'react';
 import Launch from './Button'
 import LaunchS from './Buttons/SecondButton'
